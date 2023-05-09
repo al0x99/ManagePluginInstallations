@@ -3,7 +3,8 @@
 Plugin Name: Manage Plugin Installations
 Description: Un plugin per tracciare le installazioni del tuo plugin su altri siti WordPress.
 Version: 1.0
-Author: Your Name
+Author: Alin Sfirschi
+GitHub Plugin URI: https://github.com/al0x99/ManagePluginInstallations
 */
 
 function mpi_create_installations_table() {
